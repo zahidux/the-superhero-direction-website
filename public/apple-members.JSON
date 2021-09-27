@@ -1,0 +1,110 @@
+[
+    {
+        "key": "APP1976#01ZX",
+        "name": "Tim Cook",
+        "salary": 99000,
+        "age": 60,
+        "img": "https://www.apple.com/leadership/images/bio/tim-cook_image.png.large.png",
+        "citizenship": "USA",
+        "role": "CEO"
+    },
+    {
+        "key": "APP1976#01ZC",
+        "name": "Katherine Adams",
+        "salary": 88000,
+        "age": 45,
+        "img": "https://www.apple.com/leadership/images/bio/katherine_adams_image.png.large.png",
+        "citizenship": "USA",
+        "role": "General Counsel"
+    },
+    {
+        "key": "APP1976#01ZV",
+        "name": "Greg “Joz” Joswiak",
+        "salary": 85000,
+        "age": 65,
+        "img": "https://www.apple.com/leadership/images/bio/greg-joswiak.png.large.png",
+        "citizenship": "United States",
+        "role": "Senior Vice President"
+    },
+    {
+        "key": "APP1976#01ZB",
+        "name": "Eddy Cue",
+        "salary": 84000,
+        "age": 55,
+        "img": "https://www.apple.com/leadership/images/bio/eddy_cue_image.png.large.png",
+        "citizenship": "Germany",
+        "role": "Senior Vice President"
+    },
+    {
+        "key": "APP1976#01ZN",
+        "name": "Luca Maestri",
+        "salary": 82000,
+        "age": 50,
+        "img": "https://www.apple.com/leadership/images/bio/luca_maestri_image.png.large.png",
+        "citizenship": "United States",
+        "role": "Chief Financial Officer"
+    },
+    {
+        "key": "APP1976#01ZM",
+        "name": "Sabih Khan",
+        "salary": 81000,
+        "age": 39,
+        "img": "https://www.apple.com/leadership/images/bio/Sabih_Khan_image.png.large.png",
+        "citizenship": "USA",
+        "role": "Senior Vice President,"
+    },
+    {
+        "key": "APP1976#01ZA",
+        "name": "Craig Federighi",
+        "salary": 79000,
+        "age": 54,
+        "img": "https://www.apple.com/leadership/images/bio/craig_federighi_image.png.large.png",
+        "citizenship": "United States",
+        "role": "Software Engineering"
+    },
+    {
+        "key": "APP1976#01ZS",
+        "name": "John Giannandrea",
+        "salary": 76000,
+        "age": 36,
+        "img": "https://www.apple.com/leadership/images/bio/john_giannandrea_image.png.large.png",
+        "citizenship": "USA",
+        "role": "Senior Vice President"
+    },
+    {
+        "key": "APP1976#01ZD",
+        "name": "John Ternus",
+        "salary": 75000,
+        "age": 55,
+        "img": "https://www.apple.com/leadership/images/bio/john_ternus.png.large.png",
+        "citizenship": "UAS",
+        "role": "Hardware Engineering"
+    },
+    {
+        "key": "APP1976#01ZF",
+        "name": "Lisa Jackson",
+        "salary": 66000,
+        "age": 35,
+        "img": "https://www.apple.com/leadership/images/bio/lisa_jackson_image.png.large.png",
+        "citizenship": "United States",
+        "role": "Vice President"
+    },
+    {
+        "key": "APP1976#01ZG",
+        "name": "Isabel Ge Mahe",
+        "salary": 51000,
+        "age": 44,
+        "img": "https://www.apple.com/leadership/images/bio/isabel_ge_mahe_image.png.large.png",
+        "citizenship": "United States",
+        "role": "Vice President"
+    },
+    {
+        "key": "APP1976#01ZH",
+        "name": "Stella Low",
+        "salary": 62000,
+        "age": 43,
+        "img": "https://www.apple.com/leadership/images/bio/stella-low_bio.png.large.png",
+        "citizenship": "France",
+        "role": "Vice President Communications"
+    }
+]
